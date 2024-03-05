@@ -10,4 +10,4 @@ Go is a statically typed, compiled high-level programming language designed at G
 
 [Go Wikipedia page](https://en.wikipedia.org/wiki/Go_(programming_language))
 
-[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)
+[Back to the list](list_page.md)

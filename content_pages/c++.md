@@ -10,4 +10,4 @@ C++ (/ˈsiː plʌs plʌs/, pronounced "C plus plus" and sometimes abbreviated as
 
 [C++ Wikipedia page](https://en.wikipedia.org/wiki/C%2B%2B)
 
-[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)
+[Back to the list](list_page.md)

@@ -10,4 +10,4 @@ C# (/ˌsiː ˈʃɑːrp/ see SHARP) is a general-purpose high-level programming l
 
 [C# Wikipedia page](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
-[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)
+[Back to the list](list_page.md)

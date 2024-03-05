@@ -10,4 +10,4 @@ Ruby is dynamically typed and uses garbage collection and just-in-time compilati
 
 [Ruby Wikipedia page](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 
-[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)
+[Back to the list](list_page.md)

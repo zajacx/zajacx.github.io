@@ -10,4 +10,4 @@ COBOL (/ˈkoʊbɒl, -bɔːl/; an acronym for "common business-oriented language"
 
 [COBOL Wikipedia page](https://en.wikipedia.org/wiki/COBOL)
 
-[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)
+[Back to the list](list_page.md)
