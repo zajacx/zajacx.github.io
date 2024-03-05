@@ -4,4 +4,4 @@ This month, Go entered the TIOBE index top 10 at position 8. This is the highest
 
 The TIOBE Programming Community index is an indicator of the popularity of programming languages. The index is updated once a month. The ratings are based on the number of skilled engineers world-wide, courses and third party vendors. Popular web sitesGoogle, Amazon, Wikipedia, Bing and more than 20 other engines are used to calculate the ratings.It is important to note that the TIOBE index is not about the best programming language or the languagein which most lines of code have been written.The index can be used to check whether your programming skills are still up to date or to make a strategic decision about what programming language should be adopted when starting to build a new software system.
 
-[TIOBE Index Top 20](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)
+[TIOBE Index Top 20](list_page.md)

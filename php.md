@@ -10,4 +10,4 @@ PHP code is usually processed on a web server by a PHP interpreter implemented a
 
 [PHP Wikipedia page](https://en.wikipedia.org/wiki/PHP)
 
-[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)
+[Back to the list](list_page.md)

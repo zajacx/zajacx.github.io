@@ -10,4 +10,4 @@ Pascal was developed on the pattern of the ALGOL 60 language. Wirth was involved
 
 [Delphi/Object Pascal Wikipedia page](https://en.wikipedia.org/wiki/Pascal_(programming_language))
 
-[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)
+[Back to the list](list_page.md)

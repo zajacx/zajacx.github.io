@@ -65,9 +65,7 @@ def get_welcome_text(soup):
 
 
 def create_welcome_page(header, text):
-    cwd = os.getcwd()
-    list_page_dir = os.path.join(cwd, "list_page.md")
-    list_page_link = f"[TIOBE Index Top 20]({list_page_dir})"
+    list_page_link = f"[TIOBE Index Top 20](list_page.md)"
     with open("index.md", "w") as w_page:
         w_page.write(header)
         w_page.write("\n\n")
@@ -119,9 +117,8 @@ def create_lang_info(row):
     ratings = row[3]
     change = row[4]
 
-    cwd = os.getcwd()
     better_name = better_name_creator(lang_name)
-    lang_page_dir = os.path.join(cwd, "content_pages", f"{better_name}.md")
+    lang_page_dir = f"{better_name}.md"
     lang_page_link = f"[{lang_name}]({lang_page_dir})"
     create_lang_page(lang_name, lang_page_dir)
 
@@ -135,15 +132,10 @@ def create_list_page(table):
     header = "## List of languages with highest TIOBE Index:"
     content = ""
 
-    cwd = os.getcwd()
-    content_dir = os.path.join(cwd, "content_pages")
-    os.makedirs(content_dir, exist_ok=True)
-
     for row in table:
         content += create_lang_info(row)
 
-    welcome_page_dir = os.path.join(cwd, "index.md")
-    welcome_page_link = f"[Back to TIOBE description]({welcome_page_dir})"
+    welcome_page_link = f"[Back to TIOBE description](index.md)"
 
     with open("list_page.md", "w") as l_page:
         l_page.write(header)
@@ -188,9 +180,7 @@ def create_lang_page(name, page_dir):
             logo_link = "https:" + source
             break
 
-    cwd = os.getcwd()
-    list_page_dir = os.path.join(cwd, "list_page.md")
-    list_page_link = f"[Back to the list]({list_page_dir})"
+    list_page_link = f"[Back to the list](list_page.md)"
     logo_alias = f'![logo is gone :(]({logo_link} "Logo {name}")'
     url_alias = f"[{name} Wikipedia page]({url})"
 
