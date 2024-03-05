@@ -11,4 +11,4 @@ but type inference allows its syntax to be more concise. Kotlin mainly targets t
 
 [Kotlin Wikipedia page](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 
-[Back to the list](list_page.md)
+[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)

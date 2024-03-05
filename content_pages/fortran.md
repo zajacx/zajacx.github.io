@@ -10,4 +10,4 @@ Fortran (/ˈfɔːrtræn/; formerly FORTRAN) is a third generation, compiled, imp
 
 [Fortran Wikipedia page](https://en.wikipedia.org/wiki/Fortran)
 
-[Back to the list](list_page.md)
+[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)

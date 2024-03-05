@@ -10,4 +10,4 @@ Visual Basic (VB), originally called Visual Basic .NET (VB.NET), is a multi-para
 
 [Visual Basic Wikipedia page](https://en.wikipedia.org/wiki/Visual_Basic_(.NET))
 
-[Back to the list](list_page.md)
+[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)

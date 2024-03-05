@@ -10,4 +10,4 @@ Python is a high-level, general-purpose programming language. Its design philoso
 
 [Python Wikipedia page](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-[Back to the list](list_page.md)
+[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)

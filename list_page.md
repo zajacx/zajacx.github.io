@@ -1,6 +1,6 @@
 ## List of languages with highest TIOBE Index:
 
-### [Python](content_pages/python.md)
+### [Python](/home/tomek/Studia/AWWW/lab/lab01/content_pages/python.md)
 
 **Current position (Feb 2024):** 1
 
@@ -10,7 +10,7 @@
 
 **Change:** -0.32%
 
-### [C](content_pages/c.md)
+### [C](/home/tomek/Studia/AWWW/lab/lab01/content_pages/c.md)
 
 **Current position (Feb 2024):** 2
 
@@ -20,7 +20,7 @@
 
 **Change:** -4.41%
 
-### [C++](content_pages/c++.md)
+### [C++](/home/tomek/Studia/AWWW/lab/lab01/content_pages/c++.md)
 
 **Current position (Feb 2024):** 3
 
@@ -30,7 +30,7 @@
 
 **Change:** -3.40%
 
-### [Java](content_pages/java.md)
+### [Java](/home/tomek/Studia/AWWW/lab/lab01/content_pages/java.md)
 
 **Current position (Feb 2024):** 4
 
@@ -40,7 +40,7 @@
 
 **Change:** -4.33%
 
-### [C#](content_pages/c#.md)
+### [C#](/home/tomek/Studia/AWWW/lab/lab01/content_pages/c#.md)
 
 **Current position (Feb 2024):** 5
 
@@ -50,7 +50,7 @@
 
 **Change:** +1.15%
 
-### [JavaScript](content_pages/javascript.md)
+### [JavaScript](/home/tomek/Studia/AWWW/lab/lab01/content_pages/javascript.md)
 
 **Current position (Feb 2024):** 6
 
@@ -60,7 +60,7 @@
 
 **Change:** +0.64%
 
-### [SQL](content_pages/sql.md)
+### [SQL](/home/tomek/Studia/AWWW/lab/lab01/content_pages/sql.md)
 
 **Current position (Feb 2024):** 7
 
@@ -70,7 +70,7 @@
 
 **Change:** -0.30%
 
-### [Go](content_pages/go.md)
+### [Go](/home/tomek/Studia/AWWW/lab/lab01/content_pages/go.md)
 
 **Current position (Feb 2024):** 8
 
@@ -80,7 +80,7 @@
 
 **Change:** +0.61%
 
-### [Visual Basic](content_pages/visual_basic.md)
+### [Visual Basic](/home/tomek/Studia/AWWW/lab/lab01/content_pages/visual_basic.md)
 
 **Current position (Feb 2024):** 9
 
@@ -90,7 +90,7 @@
 
 **Change:** -2.62%
 
-### [PHP](content_pages/php.md)
+### [PHP](/home/tomek/Studia/AWWW/lab/lab01/content_pages/php.md)
 
 **Current position (Feb 2024):** 10
 
@@ -100,7 +100,7 @@
 
 **Change:** +0.21%
 
-### [Fortran](content_pages/fortran.md)
+### [Fortran](/home/tomek/Studia/AWWW/lab/lab01/content_pages/fortran.md)
 
 **Current position (Feb 2024):** 11
 
@@ -110,7 +110,7 @@
 
 **Change:** +0.82%
 
-### [Delphi/Object Pascal](content_pages/delphi-object_pascal.md)
+### [Delphi/Object Pascal](/home/tomek/Studia/AWWW/lab/lab01/content_pages/delphi-object_pascal.md)
 
 **Current position (Feb 2024):** 12
 
@@ -120,7 +120,7 @@
 
 **Change:** +0.45%
 
-### [MATLAB](content_pages/matlab.md)
+### [MATLAB](/home/tomek/Studia/AWWW/lab/lab01/content_pages/matlab.md)
 
 **Current position (Feb 2024):** 13
 
@@ -130,7 +130,7 @@
 
 **Change:** +0.27%
 
-### [Assembly language](content_pages/assembly_language.md)
+### [Assembly language](/home/tomek/Studia/AWWW/lab/lab01/content_pages/assembly_language.md)
 
 **Current position (Feb 2024):** 14
 
@@ -140,7 +140,7 @@
 
 **Change:** -0.19%
 
-### [Scratch](content_pages/scratch.md)
+### [Scratch](/home/tomek/Studia/AWWW/lab/lab01/content_pages/scratch.md)
 
 **Current position (Feb 2024):** 15
 
@@ -150,7 +150,7 @@
 
 **Change:** +0.42%
 
-### [Swift](content_pages/swift.md)
+### [Swift](/home/tomek/Studia/AWWW/lab/lab01/content_pages/swift.md)
 
 **Current position (Feb 2024):** 16
 
@@ -160,7 +160,7 @@
 
 **Change:** +0.23%
 
-### [Kotlin](content_pages/kotlin.md)
+### [Kotlin](/home/tomek/Studia/AWWW/lab/lab01/content_pages/kotlin.md)
 
 **Current position (Feb 2024):** 17
 
@@ -170,7 +170,7 @@
 
 **Change:** +0.76%
 
-### [Rust](content_pages/rust.md)
+### [Rust](/home/tomek/Studia/AWWW/lab/lab01/content_pages/rust.md)
 
 **Current position (Feb 2024):** 18
 
@@ -180,7 +180,7 @@
 
 **Change:** +0.35%
 
-### [COBOL](content_pages/cobol.md)
+### [COBOL](/home/tomek/Studia/AWWW/lab/lab01/content_pages/cobol.md)
 
 **Current position (Feb 2024):** 19
 
@@ -190,7 +190,7 @@
 
 **Change:** +0.60%
 
-### [Ruby](content_pages/ruby.md)
+### [Ruby](/home/tomek/Studia/AWWW/lab/lab01/content_pages/ruby.md)
 
 **Current position (Feb 2024):** 20
 
@@ -203,4 +203,4 @@
 
 
 
-[Back to TIOBE description](index.md)
+[Back to TIOBE description](/home/tomek/Studia/AWWW/lab/lab01/index.md)

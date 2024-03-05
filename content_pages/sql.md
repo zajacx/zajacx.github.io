@@ -10,4 +10,4 @@ Introduced in the 1970s, SQL offered two main advantages over older read–write
 
 [SQL Wikipedia page](https://en.wikipedia.org/wiki/SQL)
 
-[Back to the list](list_page.md)
+[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)

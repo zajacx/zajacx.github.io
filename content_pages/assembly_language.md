@@ -10,4 +10,4 @@ In computer programming,  assembly language (alternatively assembler language or
 
 [Assembly language Wikipedia page](https://en.wikipedia.org/wiki/Assembly_language)
 
-[Back to the list](list_page.md)
+[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)

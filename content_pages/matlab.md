@@ -10,4 +10,4 @@ MATLAB (an abbreviation of "MATrix LABoratory") is a proprietary multi-paradigm 
 
 [MATLAB Wikipedia page](https://en.wikipedia.org/wiki/MATLAB)
 
-[Back to the list](list_page.md)
+[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)

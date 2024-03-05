@@ -10,4 +10,4 @@ Rust is a multi-paradigm, general-purpose programming language that emphasizes p
 
 [Rust Wikipedia page](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
-[Back to the list](list_page.md)
+[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)

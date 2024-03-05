@@ -10,4 +10,4 @@
 
 [Java Wikipedia page](https://en.wikipedia.org/wiki/Java_(programming_language))
 
-[Back to the list](list_page.md)
+[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)

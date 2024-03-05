@@ -10,4 +10,4 @@ C (pronounced /ˈsiː/ – like the letter c) is a general-purpose computer prog
 
 [C Wikipedia page](https://en.wikipedia.org/wiki/C_(programming_language))
 
-[Back to the list](list_page.md)
+[Back to the list](/home/tomek/Studia/AWWW/lab/lab01/list_page.md)
